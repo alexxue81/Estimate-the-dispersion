@@ -1,9 +1,10 @@
 Welcome to the project page!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**Lumache** (/lu'make/) is a Python library .
+
 We will use MLE method to esimate the dispersion of the intra-individual gene expression across all cells.
+
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
