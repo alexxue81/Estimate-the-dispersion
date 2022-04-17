@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Estimate the dispersion for scRNA-seq data
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub page includes the code pipeline to estimate the dispersion parameter of intra-individual gene expression across cells.
 
-Read the tutorial here:
+Read the main page here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://estimate-the-dispersion.readthedocs.io/
