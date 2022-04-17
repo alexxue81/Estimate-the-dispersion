@@ -1,9 +1,9 @@
 Welcome to the project page!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library .
+**scDispersion** is a statistical method to robustly estimate the dispersion parameter of the intra-individual gene expression across cells.
 
-We will use MLE method to esimate the dispersion of the intra-individual gene expression across all cells.
+We will firstly use MLE method to esimate the dispersion of the intra-individual gene expression across all cells. Then, a Cox and Reid adjustment was added to the profile likelihood.
 
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
